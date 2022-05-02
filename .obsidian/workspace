@@ -7,8 +7,12 @@
         "id": "244590780c13921b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "(!) Common Pool/Home/010 - Main.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "(!) Common Pool/Home/010 - Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "(!) Common Pool/Home/010 - Main.md"
+              }
             }
           }
         ]
@@ -118,5 +125,7 @@
     "collapsed": true
   },
   "active": "244590780c13921b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "(!) Common Pool/Home/010 - Main.md"
+  ]
 }

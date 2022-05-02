@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasHouseChimney",
-      "FasCode",
-      "FasFileCode",
+      "RiGitRepositoryLine",
       "RiHtml5Fill",
-      "RiBookOpenFill"
+      "FasFileCode",
+      "FasCode",
+      "FasHouseChimney"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -46,5 +46,7 @@
   "(4) Reading/Do Nows": "FasExclamation",
   "(4) Reading/Assignments": "RiBookOpenFill",
   "(4) Reading/(1) Available Quarters": "FasSchool",
-  "(3) Science/(1) Available Quarters": "FasSchool"
+  "(3) Science/(1) Available Quarters": "FasSchool",
+  "(!) Common Pool/Home": "FasHouseChimney",
+  "(!) Common Pool": "RiGitRepositoryLine"
 }
