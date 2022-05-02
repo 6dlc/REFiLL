@@ -2,7 +2,7 @@
 This is a repository for a group notetaking project named REFiLL. Feel free to copy this repository and make a pull request.
 
 ## Contribute Instructions
-1) Ensure that you have an Obsidian vault before starting.
+1) Ensure that you have Obsidian and have an Obsidian vault before starting, also make sure that you have Git and GitHub installed.
 2) Open up Git Bash and navigate to your Obsidian vault using the given command.
 
 ```
