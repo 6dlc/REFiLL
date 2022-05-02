@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiGitRepositoryLine",
-      "RiHtml5Fill",
+      "FasGlobe",
       "FasFileCode",
-      "FasCode",
-      "FasHouseChimney"
+      "RiHtml5Fill",
+      "RiFile3Fill",
+      "FasBookOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -25,7 +25,6 @@
   "(4) Reading": "FasBook",
   "(5) Social Studies": "FasTimeline",
   "Attachments": "FarImage",
-  "Templates": "FarClone",
   "(1) Main/001 - Main MOC.md": {
     "iconName": null,
     "inheritanceIcon": "FasList"
@@ -47,6 +46,18 @@
   "(4) Reading/Assignments": "RiBookOpenFill",
   "(4) Reading/(1) Available Quarters": "FasSchool",
   "(3) Science/(1) Available Quarters": "FasSchool",
-  "(!) Common Pool/Home": "FasHouseChimney",
-  "(!) Common Pool": "RiGitRepositoryLine"
+  "(!) Common Pool": "RiGitRepositoryLine",
+  "(!) Common Pool/(1) Home": "FasHouseChimney",
+  "(!) Common Pool/(2) Math": "FasPlusMinus",
+  "(!) Common Pool/(3) Science": "FasFlask",
+  "(!) Common Pool/(4) Reading": "FasBookOpen",
+  "(!) Common Pool/(5) Social Studies": "RiHistoryFill",
+  "6dlc": "Fas6",
+  "(1) Assets": "RiFile3Fill",
+  "(2) Templates": "RiFileCopyLine",
+  "6dlc/(1) Math": "FasPlusMinus",
+  "6dlc/(2) Science": "FasFlask",
+  "6dlc/(3) Reading": "FasBookOpen",
+  "6dlc/(4) Social Studies": "RiHistoryFill",
+  "(2) Templates/(!) Main Templates": "FasGlobe"
 }
