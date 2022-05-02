@@ -1,0 +1,14 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-monochrome-topaz",
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-in-the-sky",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-in-the-sky",
+  "blue-topaz-theme@@translucent-setting-panel": false,
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@background-image-settings-markdown-page-random": false,
+  "shimmering-focus@@no-floating-metadata": true,
+  "shimmering-focus@@show-titlebar": true,
+  "shimmering-focus@@show-titlebar-text": false,
+  "shimmering-focus@@show-ribbons": true
+}

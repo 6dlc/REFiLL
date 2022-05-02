@@ -1,0 +1,16 @@
+# Intellij
+*.iml
+.idea
+
+# vscode
+.vscode 
+
+# npm
+node_modules
+package-lock.json
+
+# build
+build
+
+# coverage
+coverage

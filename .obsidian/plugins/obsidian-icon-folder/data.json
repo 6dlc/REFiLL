@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasHouseChimney",
+      "FasCode",
+      "FasFileCode",
+      "RiHtml5Fill",
+      "RiBookOpenFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "(2) Math": "FasPlus",
+  "(1) Main": "FasHouseChimney",
+  "(3) Science": "FasFlask",
+  "(4) Reading": "FasBook",
+  "(5) Social Studies": "FasTimeline",
+  "Attachments": "FarImage",
+  "Templates": "FarClone",
+  "(1) Main/001 - Main MOC.md": {
+    "iconName": null,
+    "inheritanceIcon": "FasList"
+  },
+  "(6) Daily Notes": "FarCalendarDays",
+  "(7) Coding": "FasCode",
+  "(3) Science/(!) Home": "FasHouseChimney",
+  "(3) Science/OOS - Physics": "FasScaleBalanced",
+  "(3) Science/Q3 - Density Unit": "FasCube",
+  "(3) Science/Q4 - Biology Unit": "FasTree",
+  "(7) Coding/(!) Home": "FasHouseChimney",
+  "(7) Coding/HTML & CSS": "RiHtml5Fill",
+  "(7) Coding/JavaScript & TypeScript": "FabJava",
+  "(7) Coding/Visual Studio & VSCode Documentation": "FarFileCode",
+  "(7) Coding/GitHub & Git": "FabGithub",
+  "(4) Reading/(!) Home": "FasHouseChimney",
+  "(4) Reading/Writing Prompts": "FasPencil",
+  "(4) Reading/Do Nows": "FasExclamation",
+  "(4) Reading/Assignments": "RiBookOpenFill",
+  "(4) Reading/(1) Available Quarters": "FasSchool",
+  "(3) Science/(1) Available Quarters": "FasSchool"
+}
