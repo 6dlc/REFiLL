@@ -11,7 +11,7 @@ $ cd youractualvaultfolder
 ```
 (Only do second step if you put your vault in a dedicated folder.)
 
-4) Delete the .obsidian folder to ensure your vault is completely empty.
+4) Delete the .obsidian folder to ensure your vault is completely empty. (Only do if .gitignore doesn't work)
 5) Use the command given below.
 
 ```
