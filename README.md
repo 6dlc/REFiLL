@@ -25,13 +25,15 @@ $ git clone https://github.com/6dlc/REFiLL.git
 
 - Contact 6dlc#5528 if you need help or have questions.
 
+## Additional Instructions
+After successfully cloning the repository, read the plugins README or the "Start Here" note with file navigation help and other helpful things. Some plugins and settings are required, so make sure to read them. If confused, contact a host for extra information.
+
 ---
 
 ### Contributors
-- Owner/Host: 6dlc
-- Authors: snc4cy, VastoValor, zav, Ch0öpa.NänD0, Dez, delito blue, Zea
+- Owner/Host(s): 6dlc
+- Contributor(s):
 
 ### Contacts
-- Owner/Host Discord: 6dlc#5528
-- Owner/Host Email: razielcadena@gmail.com & razielsebcadena@outlook.com
-- Contributor Discord(s): Ch0öpa.NänD0.<3.B0ÖBÏES#0987, snc4cy♡#0001, VastoValor#1307, zav#8336, Dez#3712, delito blue#9567, ٴٴ Zea#4271
+- Owner/Host(s) Discord(s): 6dlc#5528
+- Contributor Discord(s): 
