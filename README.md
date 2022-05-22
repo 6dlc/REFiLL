@@ -20,7 +20,7 @@ $ git clone https://github.com/6dlc/REFiLL.git
 
 6) Add a folder with your name as author, and then add your notes to them. You may use the given plugins, and your own ideas as well.
 7) Navigate to the pull request tab and create a new pull request with your notes for the day.
-8) Delete the .github file in your vault.
+8) Delete the .github file in your vault. (only if .gitignore doesn't work)
 9) Wait for the pull request to be accepted and congrats! You've contributed!
 
 - Contact 6dlc#5528 if you need help or have questions.
