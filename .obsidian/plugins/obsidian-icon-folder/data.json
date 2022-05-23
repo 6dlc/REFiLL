@@ -52,12 +52,12 @@
   "(!) Common Pool/(3) Science": "FasFlask",
   "(!) Common Pool/(4) Reading": "FasBookOpen",
   "(!) Common Pool/(5) Social Studies": "RiHistoryFill",
-  "6dlc": "Fas6",
-  "(1) Assets": "RiFile3Fill",
-  "(2) Templates": "RiFileCopyLine",
-  "6dlc/(1) Math": "FasPlusMinus",
-  "6dlc/(2) Science": "FasFlask",
-  "6dlc/(3) Reading": "FasBookOpen",
-  "6dlc/(4) Social Studies": "RiHistoryFill",
-  "(2) Templates/(!) Main Templates": "FasGlobe"
+  "Assets": "RiFile3Fill",
+  "Templates": "RiFileCopyLine",
+  "Templates/(!) Main Templates": "FasGlobe",
+  "(1) 6dlc": "Fas6",
+  "(1) 6dlc/(1) Math": "FasPlusMinus",
+  "(1) 6dlc/(2) Science": "FasFlask",
+  "(1) 6dlc/(3) Reading": "FasBookOpen",
+  "(1) 6dlc/(4) Social Studies": "RiHistoryFill"
 }

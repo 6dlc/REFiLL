@@ -1,7 +1,7 @@
 # REFiLL
-This is a repository for a group notetaking project named REFiLL. Feel free to copy this repository and make a pull request.
+REFiLL is a note-taking group that works on multitudes of projects from many contributors. Below is detailed instruction on how to contribute and participate in REFiLL.
 
-## Contribute Instructions
+## Contribute instructions
 1) Ensure that you have Obsidian and have an Obsidian vault before starting, also make sure that you have Git and GitHub installed.
 
 2) Open up Git Bash and navigate to your Obsidian vault using the given command.
@@ -31,16 +31,17 @@ $ git clone https://github.com/6dlc/REFiLL.git
 - Contact 6dlc#5528 if you need help or have questions.
 
 ---
-## Obsidian guide
+
+## REFiLL documentation
 Obsidian is a complicated and in-depth note taking app, which might take a while to learn. Heres the basic things you need to know before beginning to take notes.
 
 ### Settings
 Before you start taking notes, here are some required settings you must set up for everything to work properly. Here is a list of the required settings.
 
 ```
-Template Folder: (2) Templates
-Attachment Folder: (1) Assets
-Spellcheck: On (Please..)
+Template Folder: Templates
+Attachment Folder: Assets
+Spellcheck: On 
 ```
 
 To set a folder as an attatchment folder, simply right click the folder and select the option “Set as attachment folder..”
@@ -50,7 +51,7 @@ To set a folder as a template folder, navigate to the template options screen (l
 To turn on spellcheck, simply go to the editor setting and turn it on.
 
 ### Plugins and themes
-Plugins and themes are important parts of Obsidian, as they allow you to take advantage of it easily. You can choose any theme you like, but there are a couple of plugins you need to do group notes. Here is a list.
+Plugins and themes are important parts of Obsidian, which allow you to add more onto your notetaking experience. REFiLL requires certain plugins in order to function correctly. You can turn on community plugins in Options > Community plugins > Turn off safe mode, and then going into “Browse community plugins..”.
 
 #### Plugins list
 -  Required plugins have an asterisk `*` at the end of them.
@@ -80,7 +81,7 @@ Open With Default App?
 ```
 
 
-##### Community Plugins
+##### Community plugins
 ```
 Dataview*
 Templater*
@@ -94,13 +95,13 @@ Tag Wrangler*
 Spaced Repetition+
 Style Settings+
 Url Into Text+
+Admonition+
 Buttons
 Calendar
 Activity History
-Admonition?
 Advanced URI
-Citations?
-Dictionary?
+Citations
+Dictionary
 Note Icons
 Outliner?
 React Components?
@@ -109,17 +110,40 @@ Simple Embeds?
 Table Editor
 ```
 
-### Markdown & Formatting
+### File navigation
+Each contributor has their own respective pool for in-progress projects. If a group project is started, it can be worked on either in the common pool or a projects pool (if wanted by contributors). Each pool is listed by name and icons can be accustomed by the author.
+
+Each author folder can have any type of folder higharchy, but should be organized accordingly to the common pool. If there isn’t a category inside of the common pool that fits the project at hand, please contact a host for a new category.
+
+Assets and templates can be used for extra help with notes, including templates, which can randomize banner images and allow preset metadata. For more information on templates, please see [here.](https://help.obsidian.md/Plugins/Templates) 
+
+Assets are for images and banners, feel free to add attachments for projects there.
+
+#### Author pools
+As mentioned previously, author pools are for personal projects regarding said author. Every contributor has 1 pool, which they can customize as much as they want. When projects are done, the contributor may move their project onto the common pool where it will be stored.
+
+MOC’s and other sorting methods are allowed to be used, but shouldn’t interfere with the common pool’s sorting method. Plugins that are utilized inside of the author’s project folder should be listed, or suggested to the main plugins list.
+
+For group projects, authors are allowed to copy a project into their own pool. Credits must be mentioned at either the beginning or end of the project, with the contributors that have worked on it.
+
+### Extra help & projects
+For help with formatting your notes on Obsidian, please see the [official help page](https://help.obsidian.md/Start+here), or contact a host for formatting customs.
+
+#### Projects
+When starting a group project, you may use either the common pool or a specialized folder in your author pool to work with other contributors on an essay or documentation. If a specialized folder is made, it can be moved to the common pool upon completion.
+
+Projects can be categorized in tags, which can be labeled on metadata. When labeling tags in metadata, please capitalize the T in “tags”. For more information on metadata, see the advanced topics section in the [official help page](https://help.obsidian.md/Start+here).
+
 ---
 
 ### Contributors
-- Owner/Host: 6dlc
+- Owner/Host(s): 6dlc
 
-- Authors: snc4cy, VastoValor, zav, Ch0öpa.NänD0, Dez, delito blue, Zea
+- Contributors: N/A
 
 ### Contacts
-- Owner/Host Discord: 6dlc#5528
+- Owner/Host(s) Discord(s): 6dlc#5528
 
-- Owner/Host Email: razielcadena@gmail.com & razielsebcadena@outlook.com
+- Contributor Discord(s): N/A
 
-- Contributor Discord(s): Ch0öpa.NänD0.<3.B0ÖBÏES#0987, snc4cy♡#0001, VastoValor#1307, zav#8336, Dez#3712, delito blue#9567, ٴٴ Zea#4271
+---
