@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Hello! Thanks for making an issue. Please only describe an issue regarding either the repository or any Github problems.'
+        pr-message: 'Greetings! Thanks for contributing. If your pull request gets marked as stale, please contact a host and direct their attention to the pull request.'
