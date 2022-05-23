@@ -5,6 +5,8 @@ REFiLL is a note-taking group that works on multitudes of projects from many con
 - Latest version of Obsidian (https://obsidian.md/download)
 - An already-made Obsidian vault named REFiLL
 - Git/Github (https://git-scm.com/downloads), Github available on website
+- A pre-existing Github account
+- Discord (optional, but reccommended)
 
 ### Contribute instructions
 1) Ensure that you have Obsidian and have an Obsidian vault before starting, also make sure that you have Git and GitHub installed.
