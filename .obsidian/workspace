@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Start Here (Documentation).md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -127,11 +127,14 @@
   "active": "244590780c13921b",
   "lastOpenFiles": [
     "Start Here (Documentation).md",
+    "(!) Common Pool/(5) Social Studies/40 - Social Studies MOC.md",
+    "(!) Common Pool/(4) Reading/30 - Reading MOC.md",
+    "(!) Common Pool/(3) Science/20 - Science MOC.md",
+    "(!) Common Pool/(2) Math/10 - Math MOC.md",
+    "(!) Common Pool/(1) Home/00 - Home.md",
     "Templates/(!) Main Templates/T001 - Basic Note.md",
     "PLUGINS.md",
     "README.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled.md",
-    "(!) Common Pool/Home/010 - Main.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
