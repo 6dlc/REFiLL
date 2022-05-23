@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Start Here (Instruction).md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -127,10 +127,10 @@
   "active": "244590780c13921b",
   "lastOpenFiles": [
     "Start Here (Instruction).md",
+    "Templates/(!) Main Templates/T001 - Basic Note.md",
     "PLUGINS.md",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "Templates/(!) Main Templates/T001 - Basic Note.md",
     "Untitled.md",
     "(!) Common Pool/Home/010 - Main.md"
   ]
