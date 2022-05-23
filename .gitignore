@@ -3,6 +3,6 @@
 /.github
 
 # Individual files
-/.README
-/.LICENSE
-/.PLUGINS
+/README
+/LICENSE
+/PLUGINS
