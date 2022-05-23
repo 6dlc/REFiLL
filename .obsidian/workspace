@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Start Here (Documentation).md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Start Here (Documentation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Start Here (Documentation).md"
               }
             }
           }
@@ -126,7 +126,7 @@
   },
   "active": "244590780c13921b",
   "lastOpenFiles": [
-    "README.md",
+    "Start Here (Documentation).md",
     "Templates/(!) Main Templates/T001 - Basic Note.md",
     "PLUGINS.md",
     "README.md",

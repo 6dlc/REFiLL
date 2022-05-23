@@ -2,21 +2,21 @@
 REFiLL is a note-taking group that works on multitudes of projects from many contributors. Below is detailed instruction on how to contribute and participate in REFiLL.
 
 ## Table of contents
-- [[README#REFiLL|REFiLL (Title)]]
-	- [[README#Contribute instructions|Contribute instructions]]
-	- [[README#REFiLL documentation|REFiLL documentation]]
-		- [[README#Settings|Settings]]
-		- [[README#Plugins and themes|Plugins and themes]]
-			- [[README#Plugins list|Plugins list]]
-				- [[README#Core plugins|Core plugins]]
-				- [[README#Community plugins|Community plugins]]
-		- [[README#File navigation|File navigation]]
-			- [[README#Author pools|Author pools]]
-		- [[README#Extra help and projects|Extra help and projects]]
-			- [[README#Projects|Projects]]
-		- [[README#Note formatting|Note formatting]]
-	- [[README#Contributors|Contributors]]
-	- [[README#Contacts|Contacts]]
+- [[Start Here (Documentation)#REFiLL|REFiLL (Title)]]
+	- [[Start Here (Documentation)#Contribute instructions|Contribute instructions]]
+	- [[Start Here (Documentation)#REFiLL documentation|REFiLL documentation]]
+		- [[Start Here (Documentation)#Settings|Settings]]
+		- [[Start Here (Documentation)#Plugins and themes|Plugins and themes]]
+			- [[Start Here (Documentation)#Plugins list|Plugins list]]
+				- [[Start Here (Documentation)#Core plugins|Core plugins]]
+				- [[Start Here (Documentation)#Community plugins|Community plugins]]
+		- [[Start Here (Documentation)#File navigation|File navigation]]
+			- [[Start Here (Documentation)#Author pools|Author pools]]
+		- [[Start Here (Documentation)#Extra help and projects|Extra help and projects]]
+			- [[Start Here (Documentation)#Projects|Projects]]
+		- [[Start Here (Documentation)#Note formatting|Note formatting]]
+	- [[Start Here (Documentation)#Contributors|Contributors]]
+	- [[Start Here (Documentation)#Contacts|Contacts]]
 
 ---
 
@@ -166,7 +166,7 @@ banner: (banner here)
 
 Also follow the formatting for tags and aliases when making metadata, as it won’t work if you format it any other way.
 
-All notes must require a table of contents as well, which links headers and sections of your project for navigation purposes. you can link headers by linking the current project and adding a # to it, such as this: `[[Start Here (Instruction)#Settings]]`. To make the display name in order to make it look nicer, you can add a | and then with your display name. Linked headers normally look like this: [[README#Settings]].
+All notes must require a table of contents as well, which links headers and sections of your project for navigation purposes. you can link headers by linking the current project and adding a # to it, such as this: `[[Start Here (Instruction)#Settings]]`. To make the display name in order to make it look nicer, you can add a | and then with your display name. Linked headers normally look like this: [[Start Here (Documentation)#Settings]].
 
 Other then these prerequisites for organization and navigation, you are allowed to format your projects in any way you’d like to.
 
