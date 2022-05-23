@@ -1,3 +1,8 @@
+# Folders and directories
 /.obsidian
 /.github
-/README
+
+# Individual files
+/.README
+/.LICENSE
+/.PLUGINS
