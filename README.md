@@ -30,9 +30,9 @@ $ git clone https://github.com/6dlc/REFiLL.git
 
 5) When you’re done, put the notes in the common pool with your category of choice. If the note doesn’t have a category, contact 6dlc#5528 and request to make one.
 
-6) When you finished, open the command palette and create a backup. After, push your changes to the repository. You can open the command pallete with CTRL+P, or the icon located when you turn on the setting. This requires you to be a contributor
+6) When you finished, open the command palette and create a backup. After, push your changes to the repository. You can open the command pallete with CTRL+P, or the icon located when you turn on the setting. This requires you to be a contributor.
 
-7) Congrats! You contributed!
+7) Congratulations! You've contributed! You may contribute again and continue creating backups to edit your projects. If any additions were made before you contribute, make sure to pull them from the repository.
 
 - Contact 6dlc#5528 if you need help or have questions.
 
