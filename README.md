@@ -11,7 +11,7 @@ REFiLL is a note-taking group that works on multitudes of projects from many con
 ### Contribute instructions
 1) Ensure that you have Obsidian and have an Obsidian vault before starting, also make sure that you have Git and GitHub installed.
 
-2) Open up Git Bash and navigate to your Obsidian vault using the given command.
+2) Open up Git Bash and navigate to your Obsidian vault using the given command. 
 
 ```
 $ cd yourvaultfolder
@@ -30,8 +30,7 @@ $ git clone https://github.com/6dlc/REFiLL.git
 
 5) When you’re done, put the notes in the common pool with your category of choice. If the note doesn’t have a category, contact 6dlc#5528 and request to make one.
 
-6) When you finished, open the command palette and create a backup. After, push your changes to the repository. This requires you to be a collaborator.
-	- If you aren’t a collaborator, DM 6dlc#5528 with your Github name.
+6) When you finished, open the command palette and create a backup. After, push your changes to the repository. You can open the command pallete with CTRL+P, or the icon located when you turn on the setting. This requires you to be a contributor
 
 7) Congrats! You contributed!
 
