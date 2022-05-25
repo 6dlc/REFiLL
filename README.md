@@ -11,7 +11,7 @@ REFiLL is a note-taking group that works on multitudes of projects from many con
 ### Contribute instructions
 1) Ensure that you have Obsidian and have an Obsidian vault before starting, also make sure that you have Git and GitHub installed.
 
-2) Open up Git Bash and navigate to your Obsidian vault using the given command. 
+2) Open up Git Bash and navigate to your Obsidian vault using the given command. You can find Git Bash by searching for it in your installed apps.
 
 ```
 $ cd yourvaultfolder
@@ -20,7 +20,7 @@ $ cd youractualvaultfolder
 
 (Only do second step if you put your vault in a dedicated folder.)
 
-3) Use the command given below.
+3) Use the command given below to copy the files into your vault.
 
 ```
 $ git clone https://github.com/6dlc/REFiLL.git
